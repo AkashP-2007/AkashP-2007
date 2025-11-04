@@ -50,6 +50,8 @@ I'm a **coding enthusiast** from Kerala, India, passionate about building impact
 
 <p align="center">
 <h3 align="center"> “There are two kinds of coders in this world, my friend…”<br>Those who <b>fear errors</b>, and those who <b>handle them with a smirk </b></h3> 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdiYXhuOHhlaWw2YmpsbWphdWVlc2NyaDBwaGs4ZmNoaDM4bmhyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7SSojvU8IYttC/giphy.gif" style="border-radius:8px;" alt="bad-gif">
 </p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdiYXhuOHhlaWw2YmpsbWphdWVlc2NyaDBwaGs4ZmNoaDM4bmhyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7SSojvU8IYttC/giphy.gif" style="border-radius:8px;" alt="bad-gif">
+<div>
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdiYXhuOHhlaWw2YmpsbWphdWVlc2NyaDBwaGs4ZmNoaDM4bmhyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7SSojvU8IYttC/giphy.gif" width = 800 style="border-radius:8px;" alt="bad-gif">
+</div>
+</div>
