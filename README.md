@@ -26,13 +26,13 @@ I'm a **coding enthusiast** from Kerala, India, passionate about building impact
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/your_username" target="_blank">
+  <a href="https://instagram.com/your_username" target="https://www.instagram.com/akash.p____?igsh=cXlvbWQ5b3Znb3g3">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/your_username" target="_blank">
+  <a href="https://linkedin.com/in/your_username" target="https://www.linkedin.com/in/akash-p-1b4074331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/AkashP-2007" target="_blank">
+  <a href="https://github.com/AkashP-2007" target="https://github.com/AkashP-2007">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
