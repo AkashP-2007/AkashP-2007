@@ -2,54 +2,25 @@
 <!--   THE GOOD, THE BAD & THE UGLY — Akash's GitHub README -->
 <!-- ===================================================== -->
 
-<h1 align="center">🤠 Akash’s Code Frontier</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="450"/>
-</p>
+<h1 align="center"> <br> Akash’s Code Frontier</h1>
 
 ---
 
-## 🟢 The Good  
-
-| 💻 **What I Ride With** | 🚀 **What I Do** |
-|--------------------------|-----------------|
-| 🐍 **Python** — smooth as silk, sharp as fangs  <br> 💣 **C** — fast, brutal, honest <br> 🌐 **HTML | CSS | JS** — crafting web frontiers | • Build **web apps**  <br> • Develop **software tools**  <br> • Tame **algorithms** like wild stallions** |
-
-🎯 **Current Quest**  
-> Conquering full-stack development while keeping my code cleaner than a cowboy’s boots on Sunday.
-
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNvcmcwZ2N0bDV2OGV1ZjR6MjgzZnpiZ2RzZnI2eWRvdmtmZGx6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="250">
-</p>
+| | |
+|---|---:|
+| **🟢 The Good**  <br><br> 💻 **Languages I Ride With**  <br> 🐍 **Python** — smooth as silk, sharp as fangs  <br> 💣 **C** — fast, brutal, honest  <br> 🌐 **HTML | CSS | JS** — crafting web frontiers  <br><br> 🚀 **What I Do**  <br> - Build **web apps**  <br> - Develop **software tools**   <br> - Tame **algorithms** like wild stallions  <br><br> 🎯 **Current Quest**  <br> > Conquering full-stack development while keeping my code cleaner than a cowboy’s boots on Sunday. | <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="260" style="border-radius:8px;" alt="good-gif" /> |
 
 ---
 
-## 🔴 The Bad  
-
-🐞 Sometimes my code runs... and I don’t know why.  
-💀 Sometimes it doesn’t... and I *still* don’t know why.  
-🧨 Stack Overflow tabs open: **27** and rising.  
-
-> But every bug’s a bullet I learn to dodge.
-
-<p align="right">
-  <img src="https://media.giphy.com/media/3o7TKVv6fO3I3Wj3Py/giphy.gif" width="250"/>
-</p>
+| | |
+|---|---:|
+| **🔴 The Bad**  <br><br> 🐞 Sometimes my code runs... and I don’t know why.  <br> 💀 Sometimes it doesn’t... and I *still* don’t know why.  <br> 🧨 Stack Overflow tabs open: **27** and rising.  <br><br> > But every bug’s a bullet I learn to dodge. | <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="260" style="border-radius:8px;" alt="bad-gif" /> |
 
 ---
 
-## ⚫ The Ugly  
-
-- `git push --force` — the day of reckoning  
-- Accidentally nuked a repo once (moment of silence 🕯️)  
-- Files like `final_code2_realfinal.py` still haunt me  
-
-> Great code is forged in chaos, caffeine, and compiler errors.  
-
-<p align="right">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
-</p>
+| | |
+|---|---:|
+| **⚫ The Ugly**  <br><br> - `git push --force` — the day of reckoning   <br> - Accidentally nuked a repo once (moment of silence 🕯️).  <br> - files like `final_code2_realfinal.py` still haunt me.  <br><br> > Great code is forged in chaos, caffeine, and compiler errors. | <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" style="border-radius:8px;" alt="ugly-gif" /> |
 
 ---
 
@@ -87,16 +58,16 @@
 
 ## 🏁 The Showdown  
 
-📍 **Kerala, India**  
+📍 **Kerala, India **  
 🕶️ **Vibe:** Calm face, chaotic repo.  
 ⚡ **Goal:** Build something *beautifully functional* — and have fun doing it.  
 
 ---
 
-<h3 align="center">“There are two kinds of coders in this world, my friend…”<br>Those who <b>fear errors</b>, and those who <b>handle them with a smirk</b>.</h3>
+<h3 align="center"> “There are two kinds of coders in this world, my friend…”<br>Those who <b>fear errors</b>, and those who <b>handle them with a smirk </b></h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8UGoA3qFvSxJ6/giphy.gif" width="350">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="360" style="border-radius:8px;" alt="final-quote-gif" />
 </p>
 
 ---
