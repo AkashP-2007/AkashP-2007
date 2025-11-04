@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🤠 Akash's Code Frontier
+#  Akash's Code Frontier
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -151,5 +151,5 @@
 </p>
 
 <p align="center">
-  ⭐ <i>If you made it this far, drop a star — it keeps my cowboy hat shiny.</i> ⭐
+  ⭐ <i>If you made it this far, drop a star — it keeps my hat shiny.</i> ⭐
 </p>
