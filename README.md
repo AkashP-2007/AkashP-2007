@@ -1,12 +1,12 @@
-# 🤠 Akash's Code Frontier
+#  Akash's Code Frontier
 
 ---
 
 ## 🟢 **The Good**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="coding-gif" />
-</div>
+<table>
+<tr>
+<td width="60%">
 
 ### 💻 **Languages I Ride With**
 - 🐍 **Python** — smooth as silk, sharp as fangs
@@ -21,13 +21,20 @@
 ### 🎯 **Current Quest**
 > Conquering full-stack development while keeping my code cleaner than a cowboy's boots on Sunday.
 
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="coding-gif" />
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🔴 **The Bad**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif" width="400" alt="debugging-gif" />
-</div>
+<table>
+<tr>
+<td width="60%">
 
 - 🐞 Sometimes my code runs... and I don't know why.
 - 💀 Sometimes it doesn't... and I *still* don't know why.
@@ -35,19 +42,33 @@
 
 > But every bug's a bullet I learn to dodge.
 
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif" width="100%" alt="debugging-gif" />
+</td>
+</tr>
+</table>
+
 ---
 
 ## ⚫ **The Ugly**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" alt="chaos-gif" />
-</div>
+<table>
+<tr>
+<td width="60%">
 
 - `git push --force` — the day of reckoning
 - Accidentally nuked a repo once (moment of silence 🕯️)
 - Files like `final_code2_realfinal.py` still haunt me
 
 > Great code is forged in chaos, caffeine, and compiler errors.
+
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%" alt="chaos-gif" />
+</td>
+</tr>
+</table>
 
 ---
 
