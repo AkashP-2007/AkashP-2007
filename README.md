@@ -2,7 +2,7 @@
 <!--   THE GOOD, THE BAD & THE UGLY — Akash's GitHub README -->
 <!-- ===================================================== -->
 
-<h1 align="center"> The Good, The Bad & The Ugly — <br> Akash’s Code Frontier</h1>
+<h1 align="center"> <br> Akash’s Code Frontier</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
@@ -71,12 +71,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashP-2007&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashP-2007&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=tokyo-night&hide_border=true" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashP-2007&theme=tokyo-night&hide_border=true" width="95%">
 </p>
 
 ---
