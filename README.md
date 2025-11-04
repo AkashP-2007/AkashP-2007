@@ -18,7 +18,7 @@ I'm a **coding enthusiast** from Kerala, India, passionate about building impact
 ## 🛠️ Skills & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,git,github,linux,vscode,mysql,bash,flask" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,git,github,linux,vscode" alt="skills" />
 </p>
 
 ---
@@ -51,3 +51,4 @@ I'm a **coding enthusiast** from Kerala, India, passionate about building impact
 <p align="center">
   <i>⭐ Feel free to explore my repositories and drop a star if you find something interesting!</i>
 </p>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdiYXhuOHhlaWw2YmpsbWphdWVlc2NyaDBwaGs4ZmNoaDM4bmhyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7SSojvU8IYttC/giphy.gif" style="border-radius:8px;" alt="bad-gif">
