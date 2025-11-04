@@ -30,7 +30,7 @@
 
 </td>
 <td width="40%" align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlsMzB1NHRzdjZmZW1ocXQwbnd6Mmk0YnN6YTNkd3BwejhiOHgzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nu62a1e89uIE0/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t5c29ia3RydXFnenlpd3NkcXNobWFxcmFydWZpaDgzNDNwZHI5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3suLoKyoitHHO/giphy.gif?refresh=1" width="280" style="border-radius: 10px;" alt="coding-gif" />
+<img src="./assets/Good.jpg" width="280" style="border-radius: 10px;" alt="coding-jpg" />
 </td>
 </tr>
 </table>
@@ -55,7 +55,7 @@
 
 </td>
 <td width="40%" align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxzMXpia3R1ajJ0a2RwcWNjb2YwcjVkNHlvNmJoc3ZvZGdzZGdvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4PCNGBPKj6De08Fgsc/giphy.gif" width="280" style="border-radius: 10px;" alt="debugging-gif" />
+<img src="./assets/Bad.jpg" style="border-radius: 10px;" alt="debugging-jpg" />
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@
 
 </td>
 <td width="40%" align="center">
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxzMXpia3R1ajJ0a2RwcWNjb2YwcjVkNHlvNmJoc3ZvZGdzZGdvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4PCNGBPKj6De08Fgsc/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3FpNjNidWc2aG4yN3YzYmowZ2s0b2Vhc29xOHlvZDg4cTBpMXcwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nxj5V2uURNzBt6TyWj/giphy.gif?refresh=1" width="280" style="border-radius: 10px;" alt="chaos-gif" />
+<img src="./assets/Ugly.jpg" width="280" style="border-radius: 10px;" alt="chaos-jpg" />
 </td>
 </tr>
 </table>
@@ -100,7 +100,6 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashP-2007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" alt="github-stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashP-2007&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" width="48%" alt="github-streak" />
 </p>
 
