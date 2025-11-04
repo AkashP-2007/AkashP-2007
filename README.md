@@ -2,12 +2,11 @@
 <!--   THE GOOD, THE BAD & THE UGLY — Akash's GitHub README -->
 <!-- ===================================================== -->
 
-<h1 align="center"> <br> Akash’s Code Frontier</h1>
+<h1 align="center">🤠 Akash’s Code Frontier</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3o7btY5jFzW8P0pVbK/giphy.gif" width="500"/>
 </p>
-
 
 ---
 
@@ -20,14 +19,14 @@
 
 🚀 **What I Do**
 - Build **web apps**  
-- Develop **software tools** 
+- Develop **software tools**  
 - Tame **algorithms** like wild stallions  
 
 🎯 **Current Quest**
 > Conquering full-stack development while keeping my code cleaner than a cowboy’s boots on Sunday.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNvcmcwZ2N0bDV2OGV1ZjR6MjgzZnpiZ2RzZnI2eWRvdmtmZGx6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="400">
 </p>
 
 ---
@@ -41,21 +40,21 @@
 > But every bug’s a bullet I learn to dodge.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3o7TKVv6fO3I3Wj3Py/giphy.gif" width="400"/>
 </p>
 
 ---
 
 ## ⚫ The Ugly  
 
-- `git push --force` — the day of reckoning   
-- Accidentally nuked a repo once (moment of silence 🕯️).  
-- files like `final_code2_realfinal.py` still haunt me.  
+- `git push --force` — the day of reckoning  
+- Accidentally nuked a repo once (moment of silence 🕯️)  
+- Files like `final_code2_realfinal.py` still haunt me  
 
 > Great code is forged in chaos, caffeine, and compiler errors.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -87,27 +86,27 @@
 |-------------|-----------|
 | **Editor** | VS Code |
 | **Version Control** | Git, GitHub |
-| **System** | Linux|
+| **System** | Linux |
 | **Languages** | Python, C |
 
 ---
 
 ## 🏁 The Showdown  
 
-📍 **Kerala, India **  
+📍 **Kerala, India**  
 🕶️ **Vibe:** Calm face, chaotic repo.  
 ⚡ **Goal:** Build something *beautifully functional* — and have fun doing it.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400">
 </p>
 
 ---
 
-<h3 align="center"> “There are two kinds of coders in this world, my friend…”<br>Those who <b>fear errors</b>, and those who <b>handle them with a smirk </b></h3>
+<h3 align="center">“There are two kinds of coders in this world, my friend…”<br>Those who <b>fear errors</b>, and those who <b>handle them with a smirk</b>.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/8UGoA3qFvSxJ6/giphy.gif" width="300">
 </p>
 
 ---
