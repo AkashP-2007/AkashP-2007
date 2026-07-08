@@ -39,18 +39,6 @@ I'm a **coding enthusiast** from Kerala, India, passionate about building impact
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashP-2007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashP-2007&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-<h3 align="center"> “There are two kinds of coders in this world, my friend…”<br>Those who <b>fear errors</b>, and those who <b>handle them with a smirk </b></h3> 
-</p>
 <div align = "center">
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdiYXhuOHhlaWw2YmpsbWphdWVlc2NyaDBwaGs4ZmNoaDM4bmhyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7SSojvU8IYttC/giphy.gif" width = 400 style="border-radius:8px;" alt="bad-gif">
 </div>
